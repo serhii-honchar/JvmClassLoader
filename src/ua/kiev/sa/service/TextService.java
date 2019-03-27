@@ -1,9 +1,9 @@
-package ua.kiev.sa;
+package ua.kiev.sa.service;
 
 public class TextService {
 
     public String staticText() {
-        return "Some static text1";
+        return "Some static text";
     }
 
     public String variable(String variable) {

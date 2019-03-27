@@ -6,7 +6,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ua.kiev.sa</groupId>
-    <artifactId>DynamicProxyTesting</artifactId>
+    <artifactId>JvmClassLoader</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
